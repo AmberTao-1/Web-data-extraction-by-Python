@@ -4,7 +4,8 @@ Created on Sun Mar 15 01:28:00 2020
 
 @author: Admin
 """
-
+#This file is going to extract all the new Growth Enterprise (ChiNext) from Shenzhen Stock Exchange (SZSE)'s CEO secretary name and email.
+#The required Stock Lists are from file yl.(A list of stock name and list number excel)
 from selenium import webdriver
 import re
 import xlrd
